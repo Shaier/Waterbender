@@ -20,8 +20,8 @@ if __name__ == '__main__':
 
     for pic in os.listdir(args.input_dir):
         img_name = pic.replace('.jpg', '')  # note that my images were jpg format
-        #print('Processing image: {}'.format(img_name))
-        img = open_image(pic)
+        print('Processing image: {}'.format(img_name))
+        img = open_image(args.input_dir + '/'+pic)
         _, img_hr, b = learn.predict(img)
 
         # save image
