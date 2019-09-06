@@ -20,7 +20,6 @@ def get_model(test_path):
     vgg_m = vgg16_bn(True).features.cuda().eval()
     requires_grad(vgg_m, False)
     blocks = [i - 1 for i, o in enumerate(children(vgg_m)) if isinstance(o, nn.MaxPool2d)]
-    #blocks, [vgg_m[i] for i in blocks]
 
     #loss
     feat_loss = FeatureLoss(vgg_m, blocks[2:5], [5, 15, 2])
