@@ -1,6 +1,6 @@
 # Waterbender
 ![Input_Demo](https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg)
-![Output_Demo](https://github.com/Shaier/Waterbender/blob/master/data/input/62_prediction.jpg)
+![Output_Demo](https://github.com/Shaier/Waterbender/blob/master/data/output/62_prediction.jpg)
 
 ## Installation
 1. Clone this repo
