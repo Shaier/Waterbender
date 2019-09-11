@@ -8,9 +8,6 @@
   <img src="https://github.com/Shaier/Waterbender/blob/master/data/output/62_prediction.jpg" width="256" title="Github Logo">
 </p>
 
-<img1 src="https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg" height="100" width="100">
-<img2 src="https://github.com/Shaier/Waterbender/blob/master/data/output/62_prediction.jpg" height="100" width="100">  
-
 ## Installation
 1. Clone this repo
 2. Install dependencies with   
