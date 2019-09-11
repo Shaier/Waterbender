@@ -1,7 +1,6 @@
 # Waterbender
-<img src="https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg" width="48">
-
-![Output_Demo](https://github.com/Shaier/Waterbender/blob/master/data/output/62_prediction.jpg){:height="100px" width="100px"}
+<img1 src="https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg" width="100">
+<img2 src="https://github.com/Shaier/Waterbender/blob/master/data/output/62_prediction.jpg" width="100">
 
 ## Installation
 1. Clone this repo
