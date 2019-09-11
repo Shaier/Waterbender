@@ -1,5 +1,6 @@
 # Waterbender
-![Input_Demo](https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg =250x250)
+<img src="https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg" width="48">
+
 ![Output_Demo](https://github.com/Shaier/Waterbender/blob/master/data/output/62_prediction.jpg){:height="100px" width="100px"}
 
 ## Installation
