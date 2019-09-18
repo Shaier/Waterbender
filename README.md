@@ -1,9 +1,9 @@
 # Waterbender
-
+Original Image
 <p align="center">
   <img src="https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg" width="256" title="Github Logo">
 </p>
-
+Model Output
 <p align="center">
   <img src="https://github.com/Shaier/Waterbender/blob/master/data/output/62_prediction.jpg" width="256" title="Github Logo">
 </p>
